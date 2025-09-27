@@ -1,0 +1,45 @@
+Fonctionnalités principales :
+
+Menu principal
+
+Affiche les options disponibles.
+
+Permet de choisir entre Calculatrice, Convertisseur d’unités ou Quitter.
+
+Calculatrice
+
+Opérations : addition, soustraction, multiplication, division .
+
+Permet à l’utilisateur de saisir deux nombres et l’opération.
+
+Affiche le résultat et propose de refaire un calcul ou retourner au menu.
+
+Convertisseur d’unités
+
+Types de conversion :
+
+Distance : km ↔ miles
+
+Température : °C ↔ °F
+
+Poids : kg ↔ lb (optionnel)
+
+Permet à l’utilisateur de saisir une valeur et l’unité de départ.
+
+Affiche le résultat converti et propose de refaire une conversion ou retourner au menu.
+
+Expérience utilisateur
+
+Messages clairs pour guider l’utilisateur.
+
+Vérification des entrées pour éviter les erreurs (ex : lettres au lieu de nombres).
+
+Option pour revenir au menu principal à chaque étape.
+
+Extensions possibles :
+
+Ajouter un historique des opérations/calculs précédents.
+
+Ajouter d’autres types de conversions (volume, vitesse, monnaie).
+
+Ajouter un système de sauvegarde dans un fichier pour conserver les historiques.
