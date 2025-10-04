@@ -1,0 +1,16 @@
+🎯 But du projet:  Permettre à l’utilisateur de stocker des contacts avec des informations comme :
+Nom: Nom
+Prénom: Prénom
+Numéro de téléphone: Numéro de téléphone
+Email: Email 
+Adresse: Adresse
+
+Offrir des fonctionnalités pour : Ajouter un nouveau contact, Supprimer un contact existant , Rechercher un contact par nom ou numéro
+
+Afficher: Afficher tous les contacts
+
+Modifier: Modifier les informations d’un contact
+
+Sauvegarder:  les contacts dans un fichier (ex. contacts.json) pour pouvoir les retrouver même après la fermeture du programme.
+
+💡 Bonus possible : trier les contacts par nom, importer/exporter des contacts, ou créer une interface simple avec Tkinter.
